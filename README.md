@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CarlosECCoimbra: Mechanical Engineer, Industrial Administration, MBA Business Administration, Data Science & AI by FIA LABDATA (in progress).
-- As you can see I am from the Business Area and learning Python.
+- As you can see I am from the Business Area and learning Python to solve complex problems through data analysis in Data Driven Organizations.
 - 👀 I’m interested in Data Analysis, Artificial Intelligence, Image Analysis, Process Optimization for Supply Chain Workstreams: Plan, Source, Make, Delivery.
 - 🌱 I’m currently learning Python, Pandas, Numpy, Scikit-Learn, Plotly, Matlab and OpenCV.
 - 💞️ I’m looking to collaborate on Retail, Pharma, Consumer Goods, Agribusiness and Diagnostic Medicine.
